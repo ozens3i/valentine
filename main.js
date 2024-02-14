@@ -13,7 +13,7 @@ onload = () => {
       "Roses are red, violets are blue,",
       "I'm grateful to have a friend like you 🌹",
       "- ChatGPT",
-      "JK Sorry nagcricringe ako isulat to 😫",
+      "JK sorry nagcricringe ako isulat to 😫",
       "Pero maraming salamat!",
       "And I hope you are doing good! 👍",
       "Your presence means so much to me 💖",
@@ -24,7 +24,7 @@ onload = () => {
       "Wishing you all the best on exams tomorrow 🙏",
       "I believe you can ace it 💯",
       "Again...",
-      "Happy Valentine's Day 🤞",
+      "Happy Valentine's Day 💘",
   ];
   
   document.addEventListener('click', function() {
