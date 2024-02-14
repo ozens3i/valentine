@@ -997,7 +997,7 @@ body {
 
 .valentines-day-card {
   position: relative;
-  width: 400px;
+  width: 350px;
   height: 300px;
   background-color: #ff8fa3;
   overflow: hidden;
@@ -1152,23 +1152,14 @@ body {
     line-height:1;
     text-align: center;
     justify-content: center;
-    width:360px;
-    left:10px;
+    width:330px;
+    left:0px;
     z-index:3;
     top:320px;
     animation: up 1s ease forwards;
     transition: .2s;
   }
   
-  .hover {
-    color: white;
-    font-family: 'Pacifico', cursive;
-    text-align: center;
-  }
-  
-  .text:hover span {
-    display: none;
-  }
   
   .valentines-day-card {
     /* ... existing styles ... */
